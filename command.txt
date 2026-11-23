@@ -1,0 +1,5 @@
+whoami
+id
+hostname
+ls -la /home/victim
+cat /etc/passwd
